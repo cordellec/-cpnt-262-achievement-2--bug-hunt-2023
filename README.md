@@ -1,1 +1,1 @@
-# CPNT-262-ACHIEVMENT-2--BUGHUNT-2023
+# cpnt-262-achievement-2--bug-hunt-2023
